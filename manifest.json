@@ -1,5 +1,5 @@
 {
   "version": "1.0.1",
-  "bundleName": "skins.bundle",
-  "url": "https://your-domain.com/skins.bundle"
+  "bundleName": "skins",
+  "url": "https://github.com/teshan0096/AssetsBundleData/raw/refs/heads/main/skins"
 }
